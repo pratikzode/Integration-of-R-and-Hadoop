@@ -1,0 +1,10 @@
+200	1
+are	2
+creative	1
+Hello	1
+here	1
+PICT	2
+Students	3
+There	2
+to	1
+Welcome	1

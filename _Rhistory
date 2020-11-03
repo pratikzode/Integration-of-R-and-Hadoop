@@ -1,0 +1,5 @@
+cat input.txt | Rscript mapper.R  | sort -k1,1 | Rscript reducer.R
+/home/pranit/Desktop/SL-VI/Assign-07/mapreduce using R
+cd /home/pranit/Desktop/SL-VI/Assign-07/mapreduce using R
+cd /home/pranit/Desktop/SL-VI/Assign-07/mapreduce using R/
+cat input.txt | Rscript mapper.R  | sort -k1,1 | Rscript reducer.R

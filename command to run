@@ -1,0 +1,1 @@
+cat input.txt | Rscript mapper.R  | sort -k1,1 | Rscript reducer.R
